@@ -47,3 +47,5 @@ jspm_packages
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 .env
+GITHUB_KEY=b1f15c3afab93f360844
+GITHUB_SECRET=58489969a857f6a1adc263e32e4b04e3587d7df4
